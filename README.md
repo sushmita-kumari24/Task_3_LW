@@ -10,3 +10,5 @@ Task Description 📄
 🔅 Use extra Session that are shared with you for the reference. 
 
 ▪ Team Task compeleted.
+
+For further setup check my blog: https://sushmita24.medium.com/video-chat-program-without-voice-using-socket-programming-in-python-5cbfed19ecb9
